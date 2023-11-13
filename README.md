@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Murinello
-- 👀 I’m interested in remote working and partnerships
-- 🌱 I’m currently learning python, django and fastapi, angular and react
-- 💞️ I’m looking to collaborate on small team projects
+- 👀 I’m interested in remote working and partnerships. 
+- 🌱 Python, django, fastapi, headless apps. 
+- 💞️ I’m like to collaborate on team projects. 
 - 📫 Email me at pedro.pm.vale@gmail.com 
 
 <!---
