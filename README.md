@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Murinello
-- 👀 I’m interested in remote working and partnerships. 
-- 🌱 Python, django, fastapi, headless apps. 
-- 💞️ I’m like to collaborate on team projects. 
+- 👀 I’m interested in partnerships with fellow digital innovators and creators. 
+- 🌱 Javascript, Python, Java frameworks and libraries. 
+- 💞️ I’m like to build, create and collaborate. 
 - 📫 Email me at pedro.pm.vale@gmail.com 
 
 <!---
