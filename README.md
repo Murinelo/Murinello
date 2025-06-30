@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
   ## Creative Full-Stack Developer
 
 
-<div align="center">
+<div align="left">
   <a href="https://twitter.com/PedroMurinelo">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
